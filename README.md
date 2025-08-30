@@ -9,13 +9,11 @@
 Hi! I'm Jehan 👋, a Front-End Web Developer. I turn coffee ☕ and code 💻 into responsive, user-friendly, and visually appealing websites using HTML, CSS, JavaScript, React, and Angular.  
 
 I love solving tricky problems with simple solutions and experimenting with new technologies. Always learning, always coding, and occasionally making my code (and myself) a little fun 😄.
+
 ---
 
 ### 🔭 I’m currently working on
 - [Responsive Web Portals & UI Design](https://github.com/JeehanAB)
-
-### 👯 I’m looking to collaborate on
-- Front-End or Full-Stack Web Projects
 
 ### 🌱 I’m currently learning
 - TypeScript, Tailwind CSS, GraphQL, SSR/SSG frameworks
