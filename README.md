@@ -1,13 +1,14 @@
-# Hi, I'm Jehan AlBuainain 👋
+# Hi, I'm Jehan 👋
 
-### Front-End Web Developer | Media Developer | IT Specialist
+### Front-End Web Developer
 
 ---
 
 ### 💻 About Me
 
-I'm Jehan, a creative and detail-oriented Front-End Web Developer with 4 years of experience in developing visually appealing and user-friendly websites. I specialize in HTML5, CSS3, JavaScript, and modern front-end frameworks. I am passionate about problem-solving and delivering high-quality user experiences.
+Hi! I'm Jehan 👋, a Front-End Web Developer. I turn coffee ☕ and code 💻 into responsive, user-friendly, and visually appealing websites using HTML, CSS, JavaScript, React, and Angular.  
 
+I love solving tricky problems with simple solutions and experimenting with new technologies. Always learning, always coding, and occasionally making my code (and myself) a little fun 😄.
 ---
 
 ### 🔭 I’m currently working on
@@ -16,14 +17,8 @@ I'm Jehan, a creative and detail-oriented Front-End Web Developer with 4 years o
 ### 👯 I’m looking to collaborate on
 - Front-End or Full-Stack Web Projects
 
-### 🤝 I’m looking for help with
-- Advanced React, Angular, and GSAP projects
-
 ### 🌱 I’m currently learning
 - TypeScript, Tailwind CSS, GraphQL, SSR/SSG frameworks
-
-### 💬 Ask me about
-- React, Vue, GSAP, Responsive Design, UI/UX
 
 ### 📫 How to reach me
 - [Email](mailto:JeehanAB@gmail.com)  
@@ -31,9 +26,6 @@ I'm Jehan, a creative and detail-oriented Front-End Web Developer with 4 years o
 
 ### 👨‍💻 All of my projects are available at
 - [GitHub Portfolio](https://github.com/JeehanAB)
-
-### 📝 I regularly write articles on
-- [Blog](https://medium.com/@JehanAB)  
 
 ### 📄 Know about my experiences
 - [Resume](https://example.com/resume.pdf)  
