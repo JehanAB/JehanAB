@@ -14,38 +14,6 @@ I love solving tricky problems with simple solutions and experimenting with new 
 
 ### 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-### 🔭 I’m currently working on
-- [Responsive Web Portals & UI Design](https://github.com/JeehanAB)
-
-### 🌱 I’m currently learning
-- TypeScript, Tailwind CSS, GraphQL, SSR/SSG frameworks
-
-### 📫 How to reach me
-- [Email](mailto:JeehanAB@gmail.com)  
-- +966509882891  
-
-### 👨‍💻 All of my projects are available at
-- [GitHub Portfolio](https://github.com/JeehanAB)
-
-### 📄 Know about my experiences
-- [Resume](https://example.com/resume.pdf)  
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeehanAB&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-### ⚡ Fun fact
-- I think I’m funny 😄
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -88,6 +56,29 @@ I love solving tricky problems with simple solutions and experimenting with new 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+---
+
+### 🔭 I’m currently working on
+- [Responsive Web Portals & UI Design](https://github.com/JeehanAB)
+
+### 🌱 I’m currently learning
+- TypeScript, Tailwind CSS, GraphQL, SSR/SSG frameworks
+
+### 📫 How to reach me
+- [Email](mailto:JeehanAB@gmail.com)  
+- +966509882891  
+
+### 👨‍💻 All of my projects are available at
+- [GitHub Portfolio](https://github.com/JeehanAB)
+
+### 📄 Know about my experiences
+- [Resume](https://example.com/resume.pdf)  
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeehanAB&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+### ⚡ Fun fact
+- I think I’m funny 😄
 
 ###
 
