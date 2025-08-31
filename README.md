@@ -66,7 +66,7 @@ Hi! I'm Jehan 👋, a Front-End Web Developer. I turn coffee ☕ and code 💻 i
 
 ### 🎓 Education
 **BS in Computer Science**  
-Imam Abdulrahman bin Faisal University (Expected: 2020)  
+Imam Abdulrahman bin Faisal University (2020)  
 
 ---
 
