@@ -72,7 +72,7 @@ Imam Abdulrahman bin Faisal University (Expected: 2020)
 
 ### 📬 Reach Me
 - 📧 Email: [JeehanAB@gmail.com](mailtoJeehanAB@gmail.com)
-- 💼 LinkedIn: [@jehan-albuainain](https://www.linkedin.com/in/jehan-albuainain/)
+- 💼 LinkedIn: [@Jehan-albuainain](https://www.linkedin.com/in/jehan-albuainain-28a798212/)
 
 
 ---
